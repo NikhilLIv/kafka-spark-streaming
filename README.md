@@ -75,7 +75,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Apache Spark](https://spark.apache.org/)
 - [Apache Cassandra](https://cassandra.apache.org/)
 - [Docker](https://www.docker.com/)
-
-```
-
-Feel free to customize any sections as needed!
