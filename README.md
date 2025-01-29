@@ -1,4 +1,4 @@
-# kafka-spark-streaming
+# random-user-streaming
 
 ## Project Overview
 
